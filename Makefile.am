@@ -200,7 +200,7 @@ install-data-hook:
 	@echo '| CAUTION:                                                    |'
 	@echo '|                                                             |'
 	@echo '| If you have not already run "make check", then we strongly  |'
-	@echo '| recommend you do so. It does not take very long.            |'
+	@echo '| recommend you do so. It takes bloody ages.                  |'
 	@echo '|                                                             |'
 	@echo '| Before using netCDF to store important data, test your      |'
 	@echo '| build with "make check".                                    |'
